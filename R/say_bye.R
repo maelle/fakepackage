@@ -1,6 +1,6 @@
 #' Say bye to sohmeon
 #'
-#' @param nameToUse Character, the name to wbyech the function says bye.
+#' @param nameToUse Character, the name to which the function says bye.
 #'
 #' @return
 #' @export

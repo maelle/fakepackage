@@ -2,15 +2,15 @@
 % Please edit documentation in R/say_bye.R
 \name{say_bye}
 \alias{say_bye}
-\title{Say bye}
+\title{Say bye to sohmeon}
 \usage{
 say_bye(nameToUse = NULL)
 }
 \arguments{
-\item{nameToUse}{Character, the name to wbyech the function says bye.}
+\item{nameToUse}{Character, the name to which the function says bye.}
 }
 \description{
-Say bye
+Say bye to sohmeon
 }
 \examples{
 say_bye("Luca")

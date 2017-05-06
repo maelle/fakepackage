@@ -7,7 +7,7 @@
 say_hola(name = NULL)
 }
 \arguments{
-\item{name}{Character, the name to wholach the function says hola.}
+\item{name}{Character, the name to which the function says hola.}
 }
 \description{
 Say hola

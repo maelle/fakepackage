@@ -1,6 +1,6 @@
 #' Say hola
 #'
-#' @param name Character, the name to wholach the function says hola.
+#' @param name Character, the name to which the function says hola.
 #'
 #' @return
 #' @export
