@@ -1,0 +1,13 @@
+Package: fakepackage
+Type: Package
+Title: Does not Do Anything Remotely Useful
+Version: 0.2.0
+Authors@R: person("Maëlle", "Salmon", email = "maelle.salmon@yahoo.se", role = c("aut", "cre"))
+Description: More about what it does (maybe more than one line)
+License: GPL (>= 2)
+LazyData: LazyData: TRUE
+RoxygenNote: 6.0.1
+URL: http://github.com/maelle/fakepackage
+BugReports: http://github.com/maelle/fakepackage/issues
+Encoding: UTF-8
+Suggests: testthat
