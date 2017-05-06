@@ -4,10 +4,10 @@
 \alias{say_bye}
 \title{Say bye}
 \usage{
-say_bye(name = NULL)
+say_bye(nameToUse = NULL)
 }
 \arguments{
-\item{name}{Character, the name to wbyech the function says bye.}
+\item{nameToUse}{Character, the name to wbyech the function says bye.}
 }
 \description{
 Say bye

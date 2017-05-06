@@ -1,15 +1,15 @@
-#' Say bye
+#' Say bye to sohmeon
 #'
-#' @param name Character, the name to wbyech the function says bye.
+#' @param nameToUse Character, the name to wbyech the function says bye.
 #'
 #' @return
 #' @export
 #'
 #' @examples
 #' say_bye("Luca")
-say_bye <- function(name = NULL){
-  if(is.null(name)){
+say_bye <- function(nameToUse = NULL){
+  if(is.null(nameToUse)){
     stop("Sorry I need a name, whom should I greet?")
   }
-  message(paste("bye", name, " !"))
+  message(paste("bye", nameToUse, " !"))
 }
