@@ -1,0 +1,35 @@
+---
+title: "How to say hi"
+author: "M. Salmon"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{R Package ropenaq}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, echo = FALSE, warning=FALSE, message=FALSE}
+NOT_CRAN <- !identical(tolower(Sys.getenv("NOT_CRAN")), "true")
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  purl = NOT_CRAN,
+  eval = NOT_CRAN
+)
+```
+
+In this awesome fake package there's a real function for saying hi! Here is how it works.
+
+```{r}
+library("fakepackage")
+say_hi("Luca")
+
+```
+
+We can also say hi to someone else if we want!
+
+```{r}
+say_hi("Santa!")
+
+```
