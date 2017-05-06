@@ -2,7 +2,7 @@ Package: fakepackage
 Type: Package
 Title: Does not Do Anything Remotely Useful
 Version: 0.2.0
-Authors@R: person("Ma?lle", "Salmon", email = "maelle.salmon@yahoo.se", role = c("aut", "cre"))
+Authors@R: person("Maëlle", "Salmon", email = "maelle.salmon@yahoo.se", role = c("aut", "cre"))
 Description: More about what it does (maybe more than one line)
 License: GPL (>= 2)
 LazyData: LazyData: TRUE
