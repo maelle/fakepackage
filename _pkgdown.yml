@@ -1,0 +1,14 @@
+title: fakepackage
+
+template:
+  params:
+    bootswatch: cosmo
+
+articles:
+  - title: How to greet people
+    contents:
+    - how_to_say_hi
+    - how_to_say_hola
+  - title: How to leave people
+    contents:
+    - how_to_say_bye
