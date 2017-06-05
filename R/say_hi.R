@@ -2,7 +2,7 @@
 #'
 #' @param name Character, the name to which the function says hi.
 #'
-#' @return
+#' @return Nothing, outputs a message.
 #' @export
 #'
 #' @examples

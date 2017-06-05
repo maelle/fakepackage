@@ -9,6 +9,9 @@ say_hi(name = NULL)
 \arguments{
 \item{name}{Character, the name to which the function says hi.}
 }
+\value{
+Nothing, outputs a message.
+}
 \description{
 Say hi
 }

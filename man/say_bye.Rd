@@ -9,6 +9,9 @@ say_bye(nameToUse = NULL)
 \arguments{
 \item{nameToUse}{Character, the name to which the function says bye.}
 }
+\value{
+Nothing, outputs a message.
+}
 \description{
 Say bye to sohmeon
 }

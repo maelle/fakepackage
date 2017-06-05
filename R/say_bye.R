@@ -2,7 +2,7 @@
 #'
 #' @param nameToUse Character, the name to which the function says bye.
 #'
-#' @return
+#' @return Nothing, outputs a message.
 #' @export
 #'
 #' @examples

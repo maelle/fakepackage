@@ -9,6 +9,9 @@ say_hola(name = NULL)
 \arguments{
 \item{name}{Character, the name to which the function says hola.}
 }
+\value{
+Nothing, outputs a message.
+}
 \description{
 Say hola
 }
